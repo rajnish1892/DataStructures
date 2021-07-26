@@ -20,7 +20,7 @@ public class COPrime {
         if(gcd(21,84)==1)
             System.out.println("Co-Prime");
         else
-            System.out.println("NonPrime");
+            System.out.println("Non-Prime");
     }
 }
 
